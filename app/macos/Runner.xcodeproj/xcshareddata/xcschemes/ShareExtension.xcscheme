@@ -31,7 +31,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "33CC10EC2044A3C60003C045"
-               BuildableName = "LocalSend.app"
+               BuildableName = "&#x8de8;&#x8bbe;&#x5907;&#x5c40;&#x57df;&#x7f51;&#x4f20;&#x8f93;.app"
                BlueprintName = "Runner"
                ReferencedContainer = "container:Runner.xcodeproj">
             </BuildableReference>
@@ -60,7 +60,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "33CC10EC2044A3C60003C045"
-            BuildableName = "LocalSend.app"
+            BuildableName = "&#x8de8;&#x8bbe;&#x5907;&#x5c40;&#x57df;&#x7f51;&#x4f20;&#x8f93;.app"
             BlueprintName = "Runner"
             ReferencedContainer = "container:Runner.xcodeproj">
          </BuildableReference>
@@ -79,7 +79,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "33CC10EC2044A3C60003C045"
-            BuildableName = "LocalSend.app"
+            BuildableName = "&#x8de8;&#x8bbe;&#x5907;&#x5c40;&#x57df;&#x7f51;&#x4f20;&#x8f93;.app"
             BlueprintName = "Runner"
             ReferencedContainer = "container:Runner.xcodeproj">
          </BuildableReference>

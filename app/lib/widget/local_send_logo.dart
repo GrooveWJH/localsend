@@ -13,7 +13,7 @@ class LocalSendLogo extends StatelessWidget {
         Theme.of(context).colorScheme.primary,
         BlendMode.srcATop,
       ),
-      child: Assets.img.logo512.image(
+      child: Assets.img.logoNew.image(
         width: 200,
         height: 200,
       ),
@@ -24,7 +24,7 @@ class LocalSendLogo extends StatelessWidget {
         children: [
           logo,
           const Text(
-            'LocalSend',
+            '跨设备局域网传输',
             style: TextStyle(fontSize: 36, fontWeight: FontWeight.bold),
             textAlign: TextAlign.center,
           ),

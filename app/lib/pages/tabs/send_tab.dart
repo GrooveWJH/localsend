@@ -225,15 +225,15 @@ class SendTab extends StatelessWidget {
                 ),
               );
             }),
-            const SizedBox(height: 10),
-            Center(
-              child: TextButton(
-                onPressed: () async {
-                  await context.push(() => const TroubleshootPage());
-                },
-                child: Text(t.troubleshootPage.title),
-              ),
-            ),
+            // const SizedBox(height: 10),
+            // Center(
+            //   child: TextButton(
+            //     onPressed: () async {
+            //       await context.push(() => const TroubleshootPage());
+            //     },
+            //     child: Text(t.troubleshootPage.title),
+            //   ),
+            // ),
             const SizedBox(height: 20),
             Padding(
               padding: const EdgeInsets.symmetric(horizontal: _horizontalPadding),

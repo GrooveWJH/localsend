@@ -110,7 +110,7 @@ class _HomePageState extends State<HomePage> with Refena {
                             children: [
                               SizedBox(height: 20),
                               Text(
-                                'LocalSend',
+                                '跨设备传输',
                                 style: TextStyle(fontSize: 32, fontWeight: FontWeight.bold),
                                 textAlign: TextAlign.center,
                               ),
